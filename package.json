@@ -1,0 +1,22 @@
+{
+  "name": "chrome-software-rendering-list",
+  "version": "1.0.0",
+  "description": "Chromium's list of blacklisted GPUs, consumable as a module",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixrieseberg/chrome-software-rendering-list"
+  },
+  "keywords": [
+    "electron",
+    "chromium",
+    "gpu",
+    "blacklist"
+  ],
+  "author": "Felix Rieseberg <felix@felixrieseberg.com>",
+  "license": "MIT"
+}
